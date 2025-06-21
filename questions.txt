@@ -1,0 +1,120 @@
+Q1: What is a strong password?
+A) Your name
+B) 123456
+C) A mix of upper/lowercase, numbers, and symbols
+D) Your birthdate
+ANSWER: C
+EXPLANATION: Strong passwords include letters, numbers, and symbols to reduce the risk of hacking.
+
+Q2: Which is a sign of a phishing scam?
+A) Correct grammar and spelling
+B) Email from a known domain
+C) Urgent requests for personal info and unknown links
+D) Personalized greeting
+ANSWER: C
+EXPLANATION: Phishing emails often contain urgent messages and suspicious links.
+
+Q3: Which AI tool is used for generating images?
+A) Grammarly
+B) Midjourney
+C) Google Docs
+D) Zoom
+ANSWER: B
+EXPLANATION: Midjourney is an AI tool for generating high-quality images from text prompts.
+
+Q4: What does HTTPS indicate about a website?
+A) The website is fast
+B) The website is verified by Google
+C) The website has a secure connection
+D) The website has a lot of traffic
+ANSWER: C
+EXPLANATION: HTTPS means the data is encrypted between your browser and the website.
+
+Q5: Why is it important to verify information online?
+A) So your friends like you
+B) To avoid misinformation and fake news
+C) To make websites faster
+D) Because it's fun
+ANSWER: B
+EXPLANATION: Verifying info helps prevent the spread of misinformation.
+
+Q6: Which of these is an AI writing tool?
+A) Canva
+B) ChatGPT
+C) YouTube
+D) Firefox
+ANSWER: B
+EXPLANATION: ChatGPT is an AI writing assistant capable of generating human-like text.
+
+Q7: What should you do if a website asks for personal info and looks suspicious?
+A) Enter fake info
+B) Close the browser immediately
+C) Report it and avoid entering anything
+D) Try it on another browser
+ANSWER: C
+EXPLANATION: Avoid giving personal info to suspicious sites and report them.
+
+Q8: What is the main purpose of two-factor authentication (2FA)?
+A) To remember your password
+B) To speed up login
+C) To add an extra layer of security
+D) To allow guest users
+ANSWER: C
+EXPLANATION: 2FA adds a second step (like a code or fingerprint) to verify your identity during login.
+
+Q9: Which of these is a secure way to manage your passwords?
+A) Writing them in a notebook
+B) Saving them in plain text on your PC
+C) Using the same password for all accounts
+D) Using a password manager
+ANSWER: D
+EXPLANATION: Password managers store and encrypt passwords, helping you generate and manage secure ones.
+
+Q10: What does a padlock icon in the browser address bar mean?
+A) The website has good design
+B) The website is secure and using HTTPS
+C) The website has a fast server
+D) The website is new
+ANSWER: B
+EXPLANATION: The padlock shows that the website uses encryption to protect your data through HTTPS.
+
+Q11: Which file extension is most likely to contain malware?
+A) .txt
+B) .jpg
+C) .pdf
+D) .exe
+ANSWER: D
+EXPLANATION: `.exe` files are executable files, which can install malware if opened from untrusted sources.
+
+Q12: What is “deepfake” technology?
+A) A way to compress videos
+B) AI-generated realistic fake media
+C) A tool to detect plagiarism
+D) A social media filter
+ANSWER: B
+EXPLANATION: Deepfakes use AI to generate hyper-realistic fake images, videos, or audio.
+
+Q13: Which of these practices can help prevent identity theft?
+A) Sharing personal info on social media
+B) Ignoring software updates
+C) Using strong and unique passwords
+D) Logging in on public Wi-Fi without VPN
+ANSWER: C
+EXPLANATION: Strong and unique passwords help protect your accounts from being hacked or misused.
+
+Q14: What should you do before clicking a shortened URL?
+A) Click it immediately
+B) Ignore it
+C) Hover or preview to check the actual destination
+D) Reply and ask for more links
+ANSWER: C
+EXPLANATION: Shortened URLs can hide malicious sites; always check before clicking.
+
+Q15: What is a sign that an image or video may have been AI-generated?
+A) It loads quickly
+B) It has perfect lighting
+C) Inconsistent hands, teeth, or backgrounds
+D) It's in black and white
+ANSWER: C
+EXPLANATION: AI-generated content often shows inconsistencies in hands, eyes, backgrounds, or proportions.
+
