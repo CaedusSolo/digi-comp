@@ -37,37 +37,3 @@ vector<Question> loadQuestions(const string& filename) {
     }
     return quiz;
 }
-
-int main() {
-    vector<Question> quiz = loadQuestions("quiz.txt");
-    if (quiz.empty()) {
-        cout << "No questions loaded.\n";
-        return 1;
-    }
-
-    int score = 0;
-    char userAnswer;
-    cout << "Welcome to the Digital Survival Skills Quiz!\n\n";
-
-    for (size_t i = 0; i < quiz.size(); ++i) {
-        const Question& q = quiz[i];
-        cout << "Q" << i + 1 << ": " << q.question << "\n";
-        cout << "A) " << q.optionA << "\n";
-        cout << "B) " << q.optionB << "\n";
-        cout << "C) " << q.optionC << "\n";
-        cout << "D) " << q.optionD << "\n";
-        cout << "Your answer (A/B/C/D): ";
-        cin >> userAnswer;
-        userAnswer = toupper(userAnswer);
-
-        if (userAnswer == q.correctAnswer) {
-            cout << "✅ Correct! " << q.explanation << "\n\n";
-            score++;
-        } else {
-            cout << "❌ Wrong! The correct answer was " << q.correctAnswer << ". " << q.explanation << "\n\n";
-        }
-    }
-
-    cout << "Quiz finished! You scored " << score << " out of " << quiz.size() << ".\n";
-    return 0;
-}
