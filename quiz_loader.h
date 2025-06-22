@@ -1,12 +1,8 @@
 #ifndef QUIZ_LOADER_H
 #define QUIZ_LOADER_H
 
-#include <iostream>
-#include <fstream>
-#include <sstream>
 #include <vector>
 #include <string>
-#include <cctype>
 using namespace std;
 
 struct Question {
