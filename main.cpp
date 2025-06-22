@@ -6,8 +6,8 @@ using namespace std;
 int main() {
     vector<Question> quiz = loadQuestions("quiz.txt");
 
-    int score = runQuiz(quiz);
-    cout << "Quiz Complete! Your final score: " << score << "/" << quiz.size();
+    QuizResult result = runQuiz(quiz);
+    cout << "Quiz Complete! Your final score: " << result.score << "/" << result.totalQuestions;
 
     return 0;
 }

@@ -1,17 +1,29 @@
 #include "quiz_logic.h"
 #include <iostream>
 #include <cctype> 
+#include <algorithm>
+#include <random>
+#include <chrono>
 using namespace std;
 
-int runQuiz(const vector<Question>& quiz) {
+QuizResult runQuiz(const vector<Question>& quiz) {
     int score = 0;
     char userAnswer;
 
     cout << "Welcome to the Digital Survival Skills Quiz!" << endl;
     cout << "Ready to take on the challenge?" << endl;
 
-    for (int i = 0; i < quiz.size(); i++) {
-        const Question& question = quiz[i];
+    vector<Question> shuffledQuiz = quiz;
+
+    // Shuffle the full question set randomly
+    unsigned seed = chrono::system_clock::now().time_since_epoch().count();
+    shuffle(shuffledQuiz.begin(), shuffledQuiz.end(), default_random_engine(seed));
+
+    // Only use first 15 questions
+    vector<Question> selectedQuestions(shuffledQuiz.begin(), shuffledQuiz.begin() + min(15, (int)shuffledQuiz.size()));
+
+    for (int i = 0; i < selectedQuestions.size(); i++) {
+        const Question& question = selectedQuestions[i];
 
         cout << "Q" << i + 1 << ": " << question.question << endl;
         cout << "A) " << question.optionA << "\n";
@@ -26,7 +38,7 @@ int runQuiz(const vector<Question>& quiz) {
             // check for termination by user (ctrl d, ctrl z, ctrl c)
             if (cin.eof()) {
                 cout << "\nProgram terminated by user. Exiting..." << endl;
-                return score;  
+                return {score, static_cast<int>(selectedQuestions.size())};  
             }
 
             // Check for other input errors
@@ -54,5 +66,5 @@ int runQuiz(const vector<Question>& quiz) {
             cout << "Explanation: " << question.explanation << endl << endl;
         }
     }
-    return score;
+    return {score, static_cast<int>(selectedQuestions.size())};
 }
