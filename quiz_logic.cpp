@@ -22,6 +22,9 @@ QuizResult runQuiz(const vector<Question>& quiz) {
     // Only use first 15 questions
     vector<Question> selectedQuestions(shuffledQuiz.begin(), shuffledQuiz.begin() + min(15, (int)shuffledQuiz.size()));
 
+    // loop through selectedQuestions
+    // display question and options
+    // then prompt user for answer
     for (int i = 0; i < selectedQuestions.size(); i++) {
         const Question& question = selectedQuestions[i];
 
@@ -31,6 +34,7 @@ QuizResult runQuiz(const vector<Question>& quiz) {
         cout << "C) " << question.optionC << "\n";
         cout << "D) " << question.optionD << "\n";
 
+        // loop to check for invalid inputs
         while (true) {
             cout << "Your answer (A/B/C/D): ";
             cin >> userAnswer;

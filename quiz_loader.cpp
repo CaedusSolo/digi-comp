@@ -5,6 +5,7 @@
 #include <cctype>
 using namespace std;
 
+// parse questions from questions.txt
 vector<Question> loadQuestions(const string& filename) {
     vector<Question> quiz;
     ifstream file(filename);
