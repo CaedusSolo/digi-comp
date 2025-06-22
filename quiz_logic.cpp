@@ -19,8 +19,31 @@ int runQuiz(const vector<Question>& quiz) {
         cout << "C) " << question.optionC << "\n";
         cout << "D) " << question.optionD << "\n";
 
-        cin >> userAnswer;
-        userAnswer = toupper(userAnswer);
+        while (true) {
+            cout << "Your answer (A/B/C/D): ";
+            cin >> userAnswer;
+
+            // check for termination by user (ctrl d, ctrl z, ctrl c)
+            if (cin.eof()) {
+                cout << "\nProgram terminated by user. Exiting..." << endl;
+                return score;  
+            }
+
+            // Check for other input errors
+            if (!cin) {
+                cin.clear(); // clear error flags
+                cin.ignore(10000, '\n'); // discard bad input
+                cout << "Invalid input. Please enter only A, B, C or D.\n";
+                continue;
+            }
+
+            userAnswer = toupper(userAnswer);
+
+            if (userAnswer == 'A' || userAnswer == 'B' || userAnswer == 'C' || userAnswer == 'D') {
+                break;
+            }
+            cout << "Invalid input. Please enter only A, B, C or D.\n";
+        }
 
         if (userAnswer == question.correctAnswer) {
             cout << "CORRECT! " << question.explanation << endl << endl;
