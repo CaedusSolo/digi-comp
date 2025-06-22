@@ -118,3 +118,122 @@ D) It's in black and white
 ANSWER: C
 EXPLANATION: AI-generated content often shows inconsistencies in hands, eyes, backgrounds, or proportions.
 
+Q16: What is a VPN used for?
+A) Making websites load faster
+B) Encrypting your internet connection and hiding your IP
+C) Improving your screen resolution
+D) Blocking pop-up ads
+ANSWER: B
+EXPLANATION: A VPN protects your data and privacy by encrypting your internet traffic and hiding your location.
+
+Q17: Which of these is an example of fake news?
+A) A well-researched article with sources
+B) A breaking news alert from a verified outlet
+C) A sensational headline with no supporting facts or sources
+D) A government press release
+ANSWER: C
+EXPLANATION: Fake news often uses exaggerated or false claims without credible sources.
+
+Q18: What is “clickbait”?
+A) A way to teach fishing
+B) A type of malware
+C) A misleading headline designed to get clicks
+D) An online shopping scam
+ANSWER: C
+EXPLANATION: Clickbait uses misleading or sensational headlines to attract attention and increase traffic.
+
+Q19: What is the safest way to confirm a breaking news story?
+A) Share it immediately
+B) Check reliable sources and fact-checking websites
+C) Ask a friend
+D) Follow the comments section
+ANSWER: B
+EXPLANATION: Always verify breaking news with trusted sources or fact-checkers before sharing.
+
+Q20: What does “digital footprint” refer to?
+A) Your shoe size
+B) How often you update your phone
+C) The trail of data you leave online
+D) The apps you use daily
+ANSWER: C
+EXPLANATION: Your digital footprint includes all traces of your activity online, such as posts, clicks, and browsing history.
+
+Q21: What should you do if your account is hacked?
+A) Do nothing
+B) Log out and forget about it
+C) Change your password and enable 2FA
+D) Delete your social media account
+ANSWER: C
+EXPLANATION: Changing your password and enabling 2FA can help you regain control and secure your account.
+
+Q22: Which of these is a good example of media bias?
+A) Neutral reporting with multiple viewpoints
+B) Clearly labeled opinion articles
+C) One-sided stories with emotionally charged language
+D) Verified news stories from multiple outlets
+ANSWER: C
+EXPLANATION: Media bias is evident when stories are one-sided or use emotion to sway opinion.
+
+Q23: What is “misinformation”?
+A) A deliberate virus
+B) Unintentionally false or misleading information
+C) A type of ad blocker
+D) A government program
+ANSWER: B
+EXPLANATION: Misinformation is false info spread without the intent to deceive, unlike disinformation which is deliberate.
+
+Q24: What should you check before downloading an app?
+A) Its name only
+B) Its color
+C) Reviews, permissions, and publisher
+D) Whether your friends use it
+ANSWER: C
+EXPLANATION: Verifying reviews and permissions helps protect you from malicious or privacy-invasive apps.
+
+Q25: Why is it risky to use public Wi-Fi without protection?
+A) You may be charged extra
+B) It slows down your phone
+C) Hackers can intercept your data
+D) It drains your battery
+ANSWER: C
+EXPLANATION: Public Wi-Fi can expose you to data theft unless you use a VPN or secure connection.
+
+Q26: What is “cyberbullying”?
+A) Debating online
+B) Posting cat videos
+C) Using technology to harass or threaten others
+D) Making memes
+ANSWER: C
+EXPLANATION: Cyberbullying involves using digital tools to harm or intimidate others.
+
+Q27: Why should you avoid clicking on pop-up ads?
+A) They’re boring
+B) They might crash your browser
+C) They often lead to scams or malware
+D) They block your screen
+ANSWER: C
+EXPLANATION: Many pop-up ads are deceptive and can infect your device with malware.
+
+Q28: What does a suspicious email attachment usually indicate?
+A) A helpful file
+B) A coupon
+C) A potential virus or phishing attempt
+D) A friendly message
+ANSWER: C
+EXPLANATION: Unexpected or strange attachments can contain malware or try to trick you.
+
+Q29: Which of the following is a safe online behavior?
+A) Using the same password everywhere
+B) Ignoring privacy settings
+C) Posting personal schedules publicly
+D) Keeping social media accounts private
+ANSWER: D
+EXPLANATION: Limiting access to your personal information protects your privacy and safety online.
+
+Q30: What is “multi-factor authentication”?
+A) Using two passwords
+B) Logging in twice
+C) A security method requiring multiple forms of verification
+D) A new type of CAPTCHA
+ANSWER: C
+EXPLANATION: MFA uses two or more verification methods (like password + phone code) to secure your account.
