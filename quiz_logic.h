@@ -3,6 +3,11 @@
 #include "quiz_loader.h"
 using namespace std;
 
-int runQuiz(const vector<Question>& quiz);
+struct QuizResult {
+    int score;
+    int totalQuestions;
+};
+
+QuizResult runQuiz(const vector<Question>& quiz);
 
 #endif

@@ -4,10 +4,14 @@
 using namespace std;
 
 int main() {
+    // call loadQuestions to get the questions
     vector<Question> quiz = loadQuestions("quiz.txt");
 
-    int score = runQuiz(quiz);
-    cout << "Quiz Complete! Your final score: " << score << "/" << quiz.size();
+    // call runQuiz to start the quiz loop
+    QuizResult result = runQuiz(quiz);
+
+    // display final score
+    cout << "Quiz Complete! Your final score: " << result.score << "/" << result.totalQuestions;
 
     return 0;
 }
