@@ -11,7 +11,7 @@ int main() {
     QuizResult result = runQuiz(quiz);
 
     // display final score
-    cout << "Quiz Complete! Your final score: " << result.score << "/" << result.totalQuestions;
+    cout << "Quiz Complete! Your final score: " << result.score << "/" << result.totalQuestions << ". \n";
 
     return 0;
 }

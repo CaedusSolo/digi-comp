@@ -1,4 +1,4 @@
-Q1: What is a strong password?
+Q: What is a strong password?
 A) Your name
 B) 123456
 C) A mix of upper/lowercase, numbers, and symbols
@@ -6,7 +6,7 @@ D) Your birthdate
 ANSWER: C
 EXPLANATION: Strong passwords include letters, numbers, and symbols to reduce the risk of hacking.
 
-Q2: Which is a sign of a phishing scam?
+Q: Which is a sign of a phishing scam?
 A) Correct grammar and spelling
 B) Email from a known domain
 C) Urgent requests for personal info and unknown links
@@ -14,7 +14,7 @@ D) Personalized greeting
 ANSWER: C
 EXPLANATION: Phishing emails often contain urgent messages and suspicious links.
 
-Q3: Which AI tool is used for generating images?
+Q: Which AI tool is used for generating images?
 A) Grammarly
 B) Midjourney
 C) Google Docs
@@ -22,7 +22,7 @@ D) Zoom
 ANSWER: B
 EXPLANATION: Midjourney is an AI tool for generating high-quality images from text prompts.
 
-Q4: What does HTTPS indicate about a website?
+Q: What does HTTPS indicate about a website?
 A) The website is fast
 B) The website is verified by Google
 C) The website has a secure connection
@@ -30,7 +30,7 @@ D) The website has a lot of traffic
 ANSWER: C
 EXPLANATION: HTTPS means the data is encrypted between your browser and the website.
 
-Q5: Why is it important to verify information online?
+Q: Why is it important to verify information online?
 A) So your friends like you
 B) To avoid misinformation and fake news
 C) To make websites faster
@@ -38,7 +38,7 @@ D) Because it's fun
 ANSWER: B
 EXPLANATION: Verifying info helps prevent the spread of misinformation.
 
-Q6: Which of these is an AI writing tool?
+Q: Which of these is an AI writing tool?
 A) Canva
 B) ChatGPT
 C) YouTube
@@ -46,7 +46,7 @@ D) Firefox
 ANSWER: B
 EXPLANATION: ChatGPT is an AI writing assistant capable of generating human-like text.
 
-Q7: What should you do if a website asks for personal info and looks suspicious?
+Q: What should you do if a website asks for personal info and looks suspicious?
 A) Enter fake info
 B) Close the browser immediately
 C) Report it and avoid entering anything
@@ -54,7 +54,7 @@ D) Try it on another browser
 ANSWER: C
 EXPLANATION: Avoid giving personal info to suspicious sites and report them.
 
-Q8: What is the main purpose of two-factor authentication (2FA)?
+Q: What is the main purpose of two-factor authentication (2FA)?
 A) To remember your password
 B) To speed up login
 C) To add an extra layer of security
@@ -62,7 +62,7 @@ D) To allow guest users
 ANSWER: C
 EXPLANATION: 2FA adds a second step (like a code or fingerprint) to verify your identity during login.
 
-Q9: Which of these is a secure way to manage your passwords?
+Q: Which of these is a secure way to manage your passwords?
 A) Writing them in a notebook
 B) Saving them in plain text on your PC
 C) Using the same password for all accounts
@@ -70,7 +70,7 @@ D) Using a password manager
 ANSWER: D
 EXPLANATION: Password managers store and encrypt passwords, helping you generate and manage secure ones.
 
-Q10: What does a padlock icon in the browser address bar mean?
+Q: What does a padlock icon in the browser address bar mean?
 A) The website has good design
 B) The website is secure and using HTTPS
 C) The website has a fast server
@@ -78,7 +78,7 @@ D) The website is new
 ANSWER: B
 EXPLANATION: The padlock shows that the website uses encryption to protect your data through HTTPS.
 
-Q11: Which file extension is most likely to contain malware?
+Q: Which file extension is most likely to contain malware?
 A) .txt
 B) .jpg
 C) .pdf
@@ -86,7 +86,7 @@ D) .exe
 ANSWER: D
 EXPLANATION: `.exe` files are executable files, which can install malware if opened from untrusted sources.
 
-Q12: What is “deepfake” technology?
+Q: What is “deepfake” technology?
 A) A way to compress videos
 B) AI-generated realistic fake media
 C) A tool to detect plagiarism
@@ -94,7 +94,7 @@ D) A social media filter
 ANSWER: B
 EXPLANATION: Deepfakes use AI to generate hyper-realistic fake images, videos, or audio.
 
-Q13: Which of these practices can help prevent identity theft?
+Q: Which of these practices can help prevent identity theft?
 A) Sharing personal info on social media
 B) Ignoring software updates
 C) Using strong and unique passwords
@@ -102,7 +102,7 @@ D) Logging in on public Wi-Fi without VPN
 ANSWER: C
 EXPLANATION: Strong and unique passwords help protect your accounts from being hacked or misused.
 
-Q14: What should you do before clicking a shortened URL?
+Q: What should you do before clicking a shortened URL?
 A) Click it immediately
 B) Ignore it
 C) Hover or preview to check the actual destination
@@ -110,7 +110,7 @@ D) Reply and ask for more links
 ANSWER: C
 EXPLANATION: Shortened URLs can hide malicious sites; always check before clicking.
 
-Q15: What is a sign that an image or video may have been AI-generated?
+Q: What is a sign that an image or video may have been AI-generated?
 A) It loads quickly
 B) It has perfect lighting
 C) Inconsistent hands, teeth, or backgrounds
@@ -118,7 +118,7 @@ D) It's in black and white
 ANSWER: C
 EXPLANATION: AI-generated content often shows inconsistencies in hands, eyes, backgrounds, or proportions.
 
-Q16: What is a VPN used for?
+Q: What is a VPN used for?
 A) Making websites load faster
 B) Encrypting your internet connection and hiding your IP
 C) Improving your screen resolution
@@ -126,7 +126,7 @@ D) Blocking pop-up ads
 ANSWER: B
 EXPLANATION: A VPN protects your data and privacy by encrypting your internet traffic and hiding your location.
 
-Q17: Which of these is an example of fake news?
+Q: Which of these is an example of fake news?
 A) A well-researched article with sources
 B) A breaking news alert from a verified outlet
 C) A sensational headline with no supporting facts or sources
@@ -134,7 +134,7 @@ D) A government press release
 ANSWER: C
 EXPLANATION: Fake news often uses exaggerated or false claims without credible sources.
 
-Q18: What is “clickbait”?
+Q: What is “clickbait”?
 A) A way to teach fishing
 B) A type of malware
 C) A misleading headline designed to get clicks
@@ -142,7 +142,7 @@ D) An online shopping scam
 ANSWER: C
 EXPLANATION: Clickbait uses misleading or sensational headlines to attract attention and increase traffic.
 
-Q19: What is the safest way to confirm a breaking news story?
+Q: What is the safest way to confirm a breaking news story?
 A) Share it immediately
 B) Check reliable sources and fact-checking websites
 C) Ask a friend
@@ -150,7 +150,7 @@ D) Follow the comments section
 ANSWER: B
 EXPLANATION: Always verify breaking news with trusted sources or fact-checkers before sharing.
 
-Q20: What does “digital footprint” refer to?
+Q: What does “digital footprint” refer to?
 A) Your shoe size
 B) How often you update your phone
 C) The trail of data you leave online
@@ -158,7 +158,7 @@ D) The apps you use daily
 ANSWER: C
 EXPLANATION: Your digital footprint includes all traces of your activity online, such as posts, clicks, and browsing history.
 
-Q21: What should you do if your account is hacked?
+Q: What should you do if your account is hacked?
 A) Do nothing
 B) Log out and forget about it
 C) Change your password and enable 2FA
@@ -166,7 +166,7 @@ D) Delete your social media account
 ANSWER: C
 EXPLANATION: Changing your password and enabling 2FA can help you regain control and secure your account.
 
-Q22: Which of these is a good example of media bias?
+Q: Which of these is a good example of media bias?
 A) Neutral reporting with multiple viewpoints
 B) Clearly labeled opinion articles
 C) One-sided stories with emotionally charged language
@@ -174,7 +174,7 @@ D) Verified news stories from multiple outlets
 ANSWER: C
 EXPLANATION: Media bias is evident when stories are one-sided or use emotion to sway opinion.
 
-Q23: What is “misinformation”?
+Q: What is “misinformation”?
 A) A deliberate virus
 B) Unintentionally false or misleading information
 C) A type of ad blocker
@@ -182,7 +182,7 @@ D) A government program
 ANSWER: B
 EXPLANATION: Misinformation is false info spread without the intent to deceive, unlike disinformation which is deliberate.
 
-Q24: What should you check before downloading an app?
+Q: What should you check before downloading an app?
 A) Its name only
 B) Its color
 C) Reviews, permissions, and publisher
@@ -190,7 +190,7 @@ D) Whether your friends use it
 ANSWER: C
 EXPLANATION: Verifying reviews and permissions helps protect you from malicious or privacy-invasive apps.
 
-Q25: Why is it risky to use public Wi-Fi without protection?
+Q: Why is it risky to use public Wi-Fi without protection?
 A) You may be charged extra
 B) It slows down your phone
 C) Hackers can intercept your data
@@ -198,7 +198,7 @@ D) It drains your battery
 ANSWER: C
 EXPLANATION: Public Wi-Fi can expose you to data theft unless you use a VPN or secure connection.
 
-Q26: What is “cyberbullying”?
+Q: What is “cyberbullying”?
 A) Debating online
 B) Posting cat videos
 C) Using technology to harass or threaten others
@@ -206,15 +206,15 @@ D) Making memes
 ANSWER: C
 EXPLANATION: Cyberbullying involves using digital tools to harm or intimidate others.
 
-Q27: Why should you avoid clicking on pop-up ads?
-A) They’re boring
+Q: Why should you avoid clicking on pop-up ads?
+A) They are boring
 B) They might crash your browser
 C) They often lead to scams or malware
 D) They block your screen
 ANSWER: C
 EXPLANATION: Many pop-up ads are deceptive and can infect your device with malware.
 
-Q28: What does a suspicious email attachment usually indicate?
+Q: What does a suspicious email attachment usually indicate?
 A) A helpful file
 B) A coupon
 C) A potential virus or phishing attempt
@@ -222,7 +222,7 @@ D) A friendly message
 ANSWER: C
 EXPLANATION: Unexpected or strange attachments can contain malware or try to trick you.
 
-Q29: Which of the following is a safe online behavior?
+Q: Which of the following is a safe online behavior?
 A) Using the same password everywhere
 B) Ignoring privacy settings
 C) Posting personal schedules publicly
@@ -230,7 +230,7 @@ D) Keeping social media accounts private
 ANSWER: D
 EXPLANATION: Limiting access to your personal information protects your privacy and safety online.
 
-Q30: What is “multi-factor authentication”?
+Q: What is “multi-factor authentication”?
 A) Using two passwords
 B) Logging in twice
 C) A security method requiring multiple forms of verification
