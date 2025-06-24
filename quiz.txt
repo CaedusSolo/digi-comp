@@ -86,7 +86,7 @@ D) .exe
 ANSWER: D
 EXPLANATION: `.exe` files are executable files, which can install malware if opened from untrusted sources.
 
-Q: What is “deepfake” technology?
+Q: What is deepfake technology?
 A) A way to compress videos
 B) AI-generated realistic fake media
 C) A tool to detect plagiarism
@@ -134,7 +134,7 @@ D) A government press release
 ANSWER: C
 EXPLANATION: Fake news often uses exaggerated or false claims without credible sources.
 
-Q: What is “clickbait”?
+Q: What is clickbait?
 A) A way to teach fishing
 B) A type of malware
 C) A misleading headline designed to get clicks
@@ -150,7 +150,7 @@ D) Follow the comments section
 ANSWER: B
 EXPLANATION: Always verify breaking news with trusted sources or fact-checkers before sharing.
 
-Q: What does “digital footprint” refer to?
+Q: What does "digital footprint" refer to?
 A) Your shoe size
 B) How often you update your phone
 C) The trail of data you leave online
@@ -174,7 +174,7 @@ D) Verified news stories from multiple outlets
 ANSWER: C
 EXPLANATION: Media bias is evident when stories are one-sided or use emotion to sway opinion.
 
-Q: What is “misinformation”?
+Q: What is "misinformation"?
 A) A deliberate virus
 B) Unintentionally false or misleading information
 C) A type of ad blocker
@@ -198,7 +198,7 @@ D) It drains your battery
 ANSWER: C
 EXPLANATION: Public Wi-Fi can expose you to data theft unless you use a VPN or secure connection.
 
-Q: What is “cyberbullying”?
+Q: What is "cyberbullying"?
 A) Debating online
 B) Posting cat videos
 C) Using technology to harass or threaten others
@@ -230,7 +230,7 @@ D) Keeping social media accounts private
 ANSWER: D
 EXPLANATION: Limiting access to your personal information protects your privacy and safety online.
 
-Q: What is “multi-factor authentication”?
+Q: What is "multi-factor authentication"?
 A) Using two passwords
 B) Logging in twice
 C) A security method requiring multiple forms of verification
