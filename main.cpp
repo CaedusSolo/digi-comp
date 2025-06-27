@@ -10,8 +10,11 @@ int main() {
     // call runQuiz to start the quiz loop
     QuizResult result = runQuiz(quiz);
 
+    int score = result.score;
+    int totalQuestions = result.totalQuestions ? result.totalQuestions : 15;
+
     // display final score
-    cout << "Quiz Complete! Your final score: " << result.score << "/" << result.totalQuestions << ". \n";
+    cout << "Quiz Complete! Your final score: " << score << "/" << totalQuestions << ". \n";
 
     return 0;
 }
